@@ -1,10 +1,14 @@
 body
-{background-color:blanchedalmond;}
 
-p{  color: rgb(255, 0, 255);
-    font-size:large;
-    font-weight:x-large;
+{background-color:rgb(218, 193, 193);}
+
+p{  color: rgb(84, 135, 216);
+    font: large;
+    font-weight:bold;
+
+}
+div{
 
 
-
+    max-width: 1000px;
 }
